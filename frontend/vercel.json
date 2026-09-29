@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://terrax-backend.onrender.com/api/$1"
+      "destination": "https://terrax-3d-ulpin.onrender.com/api/$1"
     },
     {
       "source": "/(.*)",
